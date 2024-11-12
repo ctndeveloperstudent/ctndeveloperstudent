@@ -12,31 +12,31 @@
  
  🔭 I’m currently working on **a dictionary using React**
  
- 🌱 I’m currently learning **React, Python and AI Intergration**
+ 🌱 I’m currently learning **React, Python, and AI Integration**
 
-⚡ Fun fact **Bananas glow blue under black lights**
+⚡ Fun fact: **Bananas glow blue under black lights**
 
- </div>
+</div>
  
 <div align="center"> 
+  <a href="https://charmainenyathi.netlify.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> 
+  </a>
+  <a href="https://www.linkedin.com/in/charmaine-nyathi-157007278/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="mailto:charmainenyathi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/charmaine-nyathi-157007278/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://charmainenyathi.netlify.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
-  </a>
 </div>
 
- <hr/>
+<hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,flask,postgresql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,flask,postgresql" />
 </div>
 
 <br/>
@@ -45,25 +45,23 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ctndeveloperstudent/ctndeveloperstudent/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ctndeveloperstudent/manual-run-output/github-contribution-grid-snake.svg" />
 </div>
 
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-ctndeveloperstudent.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-ctndeveloperstudent.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<div align="center">
+  
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ctndeveloperstudent&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-ctndeveloperstudent.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctndeveloperstudent&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top languages" />
 </div>
+
 
 <br/><br/>
 
 <hr/>
 
-<br/>
 
