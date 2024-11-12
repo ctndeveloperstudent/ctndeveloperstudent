@@ -32,7 +32,7 @@
 
 <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools </h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git" />
@@ -40,13 +40,6 @@
 </div>
 
 <br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ctndeveloperstudent/manual-run-output/github-contribution-grid-snake.svg" />
-</div>
 
 <hr/>
 
@@ -60,7 +53,7 @@
 </div>
 
 
-<br/><br/>
+<br/>
 
 <hr/>
 
